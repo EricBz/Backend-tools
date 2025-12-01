@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 101,
+      "nombre": "Cafetera Express Deluxe",
+      "descripcion": "Cafetera de acero inoxidable para un café perfecto en casa.",
+      "precio": 89.99,
+      "disponible": true
+    },
+    {
+      "id": 102,
+      "nombre": "Auriculares Inalámbricos Bluetooth",
+      "descripcion": "Auriculares con cancelación de ruido y 20 horas de batería.",
+      "precio": 120.50,
+      "disponible": true
+    },
+    {
+      "id": 103,
+      "nombre": "Libro 'Aprende JSON en 24h'",
+      "descripcion": "Guía completa para dominar el formato JSON y sus usos en la web.",
+      "precio": 25.00,
+      "disponible": false
+    },
+    {
+      "id": 104,
+      "nombre": "Teclado Mecánico RGB",
+      "descripcion": "Teclado gaming con switches Cherry MX y retroiluminación personalizable.",
+      "precio": 99.00,
+      "disponible": true
+    },
+    {
+      "id": 105,
+      "nombre": "Mouse Óptico Ergonómico",
+      "descripcion": "Mouse diseñado para largas sesiones de trabajo, alta precisión.",
+      "precio": 45.75,
+      "disponible": true
+    }
+  ]
+}
